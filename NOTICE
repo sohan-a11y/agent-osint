@@ -1,0 +1,35 @@
+agent-osint
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product bundles or uses the following third-party material:
+
+1. src/agent_osint/depcheck/data/slopsquatting_names.json
+   Package names derived from the "Slopsquatting: Hallucination in Coding Agents and Vibe Coding" dataset,
+   https://github.com/trendmicro/slopsquatting — MIT License, Copyright (c) 2025 Trend Micro Inc.
+
+2. src/agent_osint/integritylens/tortured.py
+   Tortured-phrase pairs from Table 1 of G. Cabanac, C. Labbé, A. Magazinov, "Tortured phrases: A dubious
+   writing style emerging in science. Evidence of critical issues affecting established journals",
+   arXiv:2107.06751 (2021). Short factual phrase pairs quoted for detection, with attribution.
+
+3. tests/fixtures/crossref/*.json
+   Real Crossref REST API responses captured by the citeguard project, https://github.com/wedo911/citeguard —
+   MIT License, Copyright (c) 2026 citeguard contributors. The underlying metadata comes from Crossref; see
+   Crossref's terms (Retraction Watch data is distributed by Crossref under CC BY 4.0 per Crossref).
+
+4. tests/fixtures/ocds_change_history/*.json
+   Example releases from the Open Contracting Data Standard documentation,
+   https://github.com/open-contracting/standard — Apache License 2.0, Copyright (c) 2014-2017 Open Contracting
+   Partnership.
+
+5. tests/fixtures/c2pa/*.jpg
+   Test images from the c2pa-python project, https://github.com/contentauth/c2pa-python — dual licensed
+   Apache License 2.0 / MIT, © Copyright 2020 Adobe.
+
+Data fetched at runtime (not redistributed):
+* hugovk/top-pypi-packages (PyPI download rankings) and wooorm/npm-high-impact (MIT) popularity lists.
+* Data from Regulations.gov, Mirrulations, Crossref, OpenAlex, doi.org, PubPeer, the EU DSA Transparency
+  Database, Meta Ad Library, UK Find a Tender, GLEIF, UK Companies House, OpenSanctions, Internet Archive,
+  Google Fact Check Tools, SSLMate Cert Spotter, and publisher websites. Each is subject to its own terms of
+  use, which the operator of this software is responsible for following (for example, OpenSanctions data is
+  licensed for non-commercial use unless you hold a commercial licence).

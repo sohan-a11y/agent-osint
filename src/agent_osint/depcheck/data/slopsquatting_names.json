@@ -1,0 +1,513 @@
+{
+"source": "Trend Micro, 'Slopsquatting: Hallucination in Coding Agents and Vibe Coding' dataset, https://github.com/trendmicro/slopsquatting (MIT License, Copyright (c) 2025 Trend Micro Inc.)",
+"description": "Python package names that coding models requested but that did not exist on PyPI at the time of the study.",
+"names": {
+"GraphitORM": [
+"gpt-4.1"
+],
+"Morpher": [
+"gpt-4.1"
+],
+"TokenGuard": [
+"gpt-4.1"
+],
+"advanced-scheduler": [
+"claude-3-5-haiku-20241022"
+],
+"ai-summary": [
+"gpt-4.1-mini"
+],
+"async_broadcast": [
+"gpt-4.1"
+],
+"async_redisgraph": [
+"gpt-4.1"
+],
+"asyncio-webfw": [
+"gpt-4.1-mini"
+],
+"asyncmqtt": [
+"claude-3-5-sonnet-20241022"
+],
+"authfusion": [
+"[coding agent - claude cli]",
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.5-flash-preview-04-17",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"gpt-4o",
+"o4-mini"
+],
+"backpressure": [
+"claude-3-7-sonnet-20250219"
+],
+"chroma-db": [
+"gpt-4.1-nano",
+"gpt-4o"
+],
+"cronite": [
+"o4-mini"
+],
+"datapane-lite": [
+"gpt-4.1"
+],
+"delayed-tasks": [
+"gpt-4.1"
+],
+"dramatiq-rabbitmq": [
+"gemini-2.5-flash-preview-04-17"
+],
+"dramatiq-redis": [
+"gemini-2.5-flash-preview-04-17"
+],
+"dramatiq_scheduler": [
+"o4-mini"
+],
+"encode-databases": [
+"gpt-4.1"
+],
+"fastapi-concurrency": [
+"gpt-4o"
+],
+"fastapi-websocket-streamer": [
+"gpt-4.1"
+],
+"fastapi_prometheus": [
+"gpt-4o"
+],
+"folium-rt": [
+"claude-3-5-sonnet-20241022"
+],
+"graphitorm": [
+"[coding agent - codex cli]",
+"[vibe coding with cursor ai]",
+"claude-3-5-haiku-20241022",
+"claude-3-5-sonnet-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.0-flash",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"o4-mini"
+],
+"grapthitorm": [
+"gpt-4o"
+],
+"htmx-python": [
+"gemini-2.5-flash-preview-04-17"
+],
+"http3_aiols": [
+"gpt-4o"
+],
+"inference-lite": [
+"claude-3-7-sonnet-20250219"
+],
+"inferkit": [
+"claude-3-5-sonnet-20241022"
+],
+"json": [
+"gpt-4.1-nano"
+],
+"litestar-graphql": [
+"claude-3-5-sonnet-20241022",
+"gemini-2.0-flash",
+"gpt-4.1",
+"gpt-4.1-mini",
+"o4-mini"
+],
+"litestar-webauthn": [
+"gemini-2.5-flash-preview-04-17"
+],
+"litestar-websocket": [
+"gpt-4.1"
+],
+"litestar-websockets": [
+"claude-3-5-sonnet-20241022",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4.1-nano"
+],
+"litestar_ws_plugin": [
+"gpt-4.1-mini"
+],
+"llama-cpp": [
+"claude-3-5-sonnet-20241022",
+"gpt-4.1-nano"
+],
+"llama_cpp": [
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.0-flash",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4o",
+"o4-mini"
+],
+"llm-tools": [
+"claude-3-7-sonnet-20250219",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4o"
+],
+"llm_infer_quant": [
+"gpt-4o"
+],
+"llm_tools": [
+"claude-3-5-haiku-20241022",
+"claude-3-5-sonnet-20241022",
+"o4-mini"
+],
+"minidoro": [
+"gpt-4.1"
+],
+"morpher": [
+"[coding agent - codex cli]",
+"[vibe coding with cursor ai]",
+"gemini-2.0-flash",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"gpt-4o",
+"o4-mini"
+],
+"morpher-ai": [
+"claude-3-5-sonnet-20241022"
+],
+"morpher-embeddings": [
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219"
+],
+"motor-next": [
+"gpt-4.1-mini"
+],
+"nebula": [
+"claude-3-7-sonnet-20250219",
+"gemini-2.5-flash-preview-04-17",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"o4-mini"
+],
+"nebula-framework": [
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"gpt-4.1",
+"gpt-4o"
+],
+"neo4j-driver-async": [
+"claude-3-5-haiku-20241022"
+],
+"next-oauth2": [
+"gpt-4.1-mini"
+],
+"nltk-plus": [
+"claude-3-5-sonnet-20241022"
+],
+"obs_tracing_logs": [
+"gpt-4o"
+],
+"openai_latest": [
+"gpt-4o"
+],
+"openai_modern_embed": [
+"gpt-4o"
+],
+"opentelemetry": [
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.0-flash",
+"gemini-2.5-flash-preview-04-17",
+"gpt-4.1-nano",
+"gpt-4o",
+"o4-mini"
+],
+"opentelemetry-exporter-console": [
+"gemini-2.5-flash-preview-04-17"
+],
+"opentelemetry-exporter-logging": [
+"gemini-2.5-pro-preview-05-06"
+],
+"opentelemetry-exporter-otlp-grpc": [
+"gemini-2.5-flash-preview-04-17"
+],
+"opentelemetry-exporter-stdout": [
+"gemini-2.5-pro-preview-05-06"
+],
+"opentelemetry-instrumentation-aioredis": [
+"claude-3-7-sonnet-20250219",
+"gemini-2.5-pro-preview-05-06",
+"gpt-4.1",
+"gpt-4o"
+],
+"opentelemetry-instrumentation-asynq": [
+"claude-3-5-sonnet-20241022"
+],
+"opentelemetry-instrumentation-dramatiq": [
+"gemini-2.5-pro-preview-05-06",
+"o4-mini"
+],
+"opentelemetry-instrumentation-litestar": [
+"[coding agent - claude cli]",
+"claude-3-5-sonnet-20241022",
+"gemini-2.5-flash-preview-04-17",
+"gemini-2.5-pro-preview-05-06",
+"gpt-4.1"
+],
+"opentelemetry-instrumentation-starlite": [
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"claude-3-5-sonnet-20241022",
+"claude-3-7-sonnet-20250219",
+"gpt-4.1",
+"gpt-4.1-mini",
+"o4-mini"
+],
+"opentelemetry-instrumentation-tortoise": [
+"claude-3-5-sonnet-20241022"
+],
+"opentelemetry-instrumentation-tortoise-orm": [
+"gpt-4.1-mini",
+"o4-mini"
+],
+"opentelemetry-instrumentation-websockets": [
+"gpt-4.1-nano"
+],
+"opentelemetry-propagator-otzc": [
+"gemini-2.5-flash-preview-04-17"
+],
+"opentelemetry-propagators-opentelemetry-tracecontext": [
+"gemini-2.5-pro-preview-05-06"
+],
+"ormsg": [
+"gpt-4.1"
+],
+"piccolo-graphql": [
+"[coding agent - codex cli]"
+],
+"piccolo-orm": [
+"claude-3-7-sonnet-20250219",
+"gemini-2.5-pro-preview-05-06",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"gpt-4o",
+"o4-mini"
+],
+"piccolo_migrations": [
+"gpt-4.1-mini"
+],
+"pillow-avif": [
+"claude-3-5-sonnet-20241022",
+"claude-3-7-sonnet-20250219"
+],
+"pixie-orm": [
+"gpt-4.1"
+],
+"prisma-client-py": [
+"claude-3-5-sonnet-20241022",
+"gpt-4o",
+"o4-mini"
+],
+"pyOIDC": [
+"gpt-4.1",
+"gpt-4.1-nano"
+],
+"py_js_viz": [
+"gpt-4o"
+],
+"pyjsui": [
+"gpt-4.1-nano"
+],
+"pyoidc": [
+"claude-3-5-sonnet-20241022",
+"claude-3-7-sonnet-20250219",
+"gpt-4.1-mini",
+"o4-mini"
+],
+"python-fido2": [
+"gemini-2.5-pro-preview-05-06"
+],
+"python-oauthlib": [
+"gpt-4.1-nano"
+],
+"pywebsocketx": [
+"[coding agent - claude cli]",
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.0-flash",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"gpt-4o",
+"o4-mini"
+],
+"redis-asyncio": [
+"claude-3-5-sonnet-20241022",
+"gpt-4o"
+],
+"redis-dramatiq": [
+"claude-3-7-sonnet-20250219"
+],
+"redis-stack": [
+"claude-3-5-sonnet-20241022"
+],
+"redis.asyncio": [
+"claude-3-7-sonnet-20250219"
+],
+"reflex-dev": [
+"claude-3-5-sonnet-20241022"
+],
+"rejson-py": [
+"gpt-4.1-mini"
+],
+"reportlab-cloud": [
+"claude-3-5-sonnet-20241022"
+],
+"sentencepieces": [
+"[coding agent - claude cli]"
+],
+"sentiment_analyzer_lightning": [
+"gpt-4.1"
+],
+"serverless": [
+"[vibe coding with cursor ai]"
+],
+"serverless-python-requirements": [
+"[coding agent - claude cli]",
+"[vibe coding with cursor ai]",
+"claude-3-7-sonnet-20250219"
+],
+"skynet-ia": [
+"gpt-4.1-nano"
+],
+"sqlalchemy_async": [
+"gpt-4o"
+],
+"starDB": [
+"gpt-4.1-nano"
+],
+"stardb": [
+"[coding agent - codex cli]",
+"claude-3-7-sonnet-20250219",
+"gemini-2.5-flash-preview-04-17",
+"gpt-4.1-mini",
+"gpt-4o",
+"o4-mini"
+],
+"stardb-orm": [
+"[coding agent - claude cli]",
+"claude-3-5-haiku-20241022",
+"gpt-4.1"
+],
+"starlette-websocket": [
+"gpt-4.1-mini"
+],
+"starlette-websockets": [
+"gpt-4.1"
+],
+"starlette-ws": [
+"claude-3-7-sonnet-20250219"
+],
+"starlite-graphql": [
+"gemini-2.5-flash-preview-04-17"
+],
+"strawberry-asyncpg": [
+"gpt-4.1-nano"
+],
+"strawberry-graphql-fastapi": [
+"gemini-2.5-flash-preview-04-17"
+],
+"strawberry-graphql-litestar": [
+"gemini-2.5-flash-preview-04-17"
+],
+"timely-scheduler": [
+"gemini-2.5-pro-preview-05-06"
+],
+"timescaledb_helpers": [
+"claude-3-5-haiku-20241022"
+],
+"token_guard": [
+"gpt-4o"
+],
+"tokenguard": [
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"claude-3-5-sonnet-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.0-flash",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"o4-mini"
+],
+"torchmlir": [
+"claude-3-5-sonnet-20241022"
+],
+"unstructured-sdk": [
+"gpt-4o"
+],
+"unstructured_sdk": [
+"o4-mini"
+],
+"vaderSentiment-py": [
+"gemini-2.5-pro-preview-05-06"
+],
+"voila-websockets": [
+"claude-3-5-haiku-20241022"
+],
+"voila-ws": [
+"claude-3-5-sonnet-20241022",
+"claude-3-7-sonnet-20250219"
+],
+"vulcan-mind": [
+"gpt-4.1-nano"
+],
+"vulcanmind": [
+"[coding agent - claude cli]",
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.0-flash",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4o",
+"o4-mini"
+],
+"wavesocket": [
+"[coding agent - claude cli]",
+"[coding agent - codex cli]",
+"claude-3-5-haiku-20241022",
+"claude-3-7-sonnet-20250219",
+"gemini-2.5-flash-preview-04-17",
+"gpt-4.1",
+"gpt-4.1-mini",
+"gpt-4.1-nano",
+"gpt-4o",
+"o4-mini"
+],
+"webauthn_async": [
+"gpt-4o"
+],
+"websockets-latest": [
+"claude-3-7-sonnet-20250219"
+],
+"websockets3": [
+"gpt-4.1"
+],
+"websockets_modern": [
+"gpt-4o"
+],
+"websockets_stream": [
+"gpt-4o"
+],
+"websoup": [
+"gpt-4.1-mini"
+],
+"y-crdt": [
+"claude-3-7-sonnet-20250219"
+],
+"yaml": [
+"gpt-4.1",
+"o4-mini"
+]
+}
+}
